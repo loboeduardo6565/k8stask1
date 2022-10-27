@@ -1,0 +1,6 @@
+# Instalación y configuración de minikube y kubectl
+
+### Antes de instalar minikube se instaló Docker
+
+#### El entorno se instaló en una MV Ubuntu 20.04 usando Vagrant. 
+
